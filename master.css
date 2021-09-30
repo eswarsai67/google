@@ -1,0 +1,79 @@
+.cont{
+  padding-top : 10%;
+  text-align : center;
+  padding-left: 30%;
+  padding-right : 30%;
+}
+h1{
+  font-size: 6rem;
+  font-weight: bold;
+  color : white;
+}
+.input{
+  margin-top : 20px;
+  width : 80%;
+  height : 40px;
+  border-radius : 20px;
+  border-style: none;
+  outline : none;
+}
+.input:focus{
+  border-radius : 0;
+  outline : inherit;
+}
+body{
+  background-image: url("https://source.unsplash.com/1600x900/?city,black");
+  font-family : 'Kumbh Sans', sans-serif;
+}
+a{
+  position: relative;
+  left : 550px;
+  bottom : 130px;
+  color : white;
+  padding : 10px;
+}
+a:hover{
+  color:white;
+}
+.but{
+  margin-top : 30px;
+  width : 50px;
+  height: 50px;
+  border-radius: 100px;
+  background-color: white;
+  color : black;
+  border : none;
+  outline : none;
+  text-align: center;
+}
+h2
+{
+  color : grey;
+}
+.butt{
+  margin-top : 10px;
+  padding : 10px;
+  display : inline-block;
+  position : relative;
+  left : 80px;
+}
+.butt:hover{
+  background-color: rgba(255,255,255,0.1);
+}
+.foot{
+  position : relative;
+  top : 290px;
+ right : 700px;
+ color : white;
+ text-decoration: underline;
+ cursor: pointer;
+ display : inline-block;
+}
+.foot1{
+  position : relative;
+  top : 290px;
+ right : 700px;
+ color : white;
+ cursor: pointer;
+ display: inline-block;
+}
